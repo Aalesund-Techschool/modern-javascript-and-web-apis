@@ -22,9 +22,7 @@ You will learn to:
 
 :exclamation: **Note:** If you have Node installed with a version _less_ than the latest LTS version, please upgrade to the latest LTS version before continuing.
 
-### 1.1.2 Chrome and VS Code
-
-:pencil2: [Install Google Chrome if you don't have it](https://www.google.com/chrome/browser/desktop/)
+### 1.1.2 Make sure you have a good code editor
 
 :pencil2: [Install VS Code if you don't have it](https://code.visualstudio.com/)
 
