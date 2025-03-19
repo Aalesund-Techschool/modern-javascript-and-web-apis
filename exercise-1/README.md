@@ -103,6 +103,7 @@ src
 
 :book: See [troubleshooting.md](./../troubleshooting.md) for an overview of the most common JavaScript errors.
 
+:book: If you have made changes to code in the `frontend` folder, make sure you refresh your browser to see the changes reflected. 
 ___
 
 Now that we're all set-up, let's add some features to our web!
