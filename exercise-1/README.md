@@ -27,6 +27,7 @@ You will learn to:
 :pencil2: [Install VS Code if you don't have it](https://code.visualstudio.com/)
 
 
+
 ## 1.2 Local development environment setup
 
 :book: In order to kickstart the exercises we have created a starter project for you.
@@ -47,7 +48,7 @@ npm start
 
 :pencil2: Open [http://localhost:3000](http://localhost:3000) in Chrome
 
-:book: You should now see the text "Message from API: 'Hello Techschool 🎉🎉🎉'" displayed on the screen.
+:book: You should now see the text `Message from API: 'Hello Techschool 🎉🎉🎉'` displayed on the screen.
 
 :book: Tip: If you want stop the application, press <kbd>CTRL</kbd>+<kbd>C</kbd> while inside the terminal window you started the application in. Run the command `npm start` to start the app again.
 
