@@ -43,7 +43,7 @@ body {
     padding: 0.5rem;
     background-color: var(--color-card-background);
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
-    border-radius: 15px;
+    border-radius: 5px;
     display: flex;
     gap: 1rem;
 }
@@ -62,7 +62,7 @@ body {
 
 .movie-card img {
     height: 100%;
-    border-radius: 15px;
+    border-radius: 5px;
 }
 
 .movie-card .image-container {
@@ -79,7 +79,7 @@ body {
     background-color: var(--color-primary);
     color: white;
     padding: 0.5rem 1rem;
-    border-radius: 15px;
+    border-radius: 5px;
     border: none;
     cursor: pointer;
 }
@@ -88,7 +88,7 @@ body {
     background-color: var(--color-primary);
     color: white;
     padding: 0.5rem 1rem;
-    border-radius: 15px;
+    border-radius: 5px;
     border: none;
     cursor: pointer;
 }

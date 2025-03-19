@@ -106,7 +106,7 @@ let movie = {
 ```javascript
 router.get('/helloworld', async (req, res) => {
   const example = {
-    message: 'Hello Nerdschool 🎉🎉🎉'
+    message: 'Hello Techschool 🎉🎉🎉'
   };
 
   res.send(example);

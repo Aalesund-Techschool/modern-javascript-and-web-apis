@@ -122,14 +122,17 @@ createMovieForm.addEventListener('submit', async (e) => {
   <summary>Show suggested solution</summary>
 
   ```javascript
-  export const insertMovie = async (movie) => {
-    const movies = await getMovies();
-    const id = movies.length;
-    const posterUrl = '/movie-posters/default.jpg';
+export const insertMovie = async (movie) => {
+  const moviesData = await getMovies();
+  const id = moviesData.length;
+  const posterUrl = '/movie-posters/default.jpg';
 
-    const updatedMovies = [...movies, {id, posterUrl, ...movie}];
-    await fs.writeFile(dataFilePath, JSON.stringify(updatedMovies, null, 2));
-  }
+  const updatedMovies = [...moviesData.movies, {id, posterUrl, ...movie}];
+  const updateData = { movies: updatedMovies };
+  await fs.writeFile(dataFilePath, JSON.stringify(updateData, null, 2));
+
+  return updatedMovies;
+}
   ```
 </details>
 
