@@ -1,4 +1,4 @@
-# Modern JavaScript and Web APIs
+# Web development and APIs
 
 This workshop focuses on language constructs in modern JavaScript versions known as ECMAScript2015 (ES2015) or ECMAScript 6 (ES6). We'll look at features in modern JavaScript and use these features to build a JavaScript-based web application against a server-side web API.
 
