@@ -22,11 +22,10 @@ You will learn to:
 
 :exclamation: **Note:** If you have Node installed with a version _less_ than the latest LTS version, please upgrade to the latest LTS version before continuing.
 
-### 1.1.2 Chrome and VS Code
-
-:pencil2: [Install Google Chrome if you don't have it](https://www.google.com/chrome/browser/desktop/)
+### 1.1.2 Make sure you have a good code editor
 
 :pencil2: [Install VS Code if you don't have it](https://code.visualstudio.com/)
+
 
 
 ## 1.2 Local development environment setup
@@ -49,7 +48,7 @@ npm start
 
 :pencil2: Open [http://localhost:3000](http://localhost:3000) in Chrome
 
-:book: You should now see the text "Message from API: 'Hello Techschool 🎉🎉🎉'" displayed on the screen.
+:book: You should now see the text `Message from API: 'Hello Techschool 🎉🎉🎉'` displayed on the screen.
 
 :book: Tip: If you want stop the application, press <kbd>CTRL</kbd>+<kbd>C</kbd> while inside the terminal window you started the application in. Run the command `npm start` to start the app again.
 
@@ -104,6 +103,7 @@ src
 
 :book: See [troubleshooting.md](./../troubleshooting.md) for an overview of the most common JavaScript errors.
 
+:book: If you have made changes to code in the `frontend` folder, make sure you refresh your browser to see the changes reflected. 
 ___
 
 Now that we're all set-up, let's add some features to our web!
