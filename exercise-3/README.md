@@ -69,7 +69,7 @@ Visually it should look something like this in the browser:
 ```html
 <html>
   <body>
-    <h1>Hello Nerdschool!</h1>
+    <h1>Hello Techschool!</h1>
   </body>
 </html>
 ```
@@ -80,7 +80,7 @@ Visually it should look something like this in the browser:
 
 ```javascript
 const h1 = document.querySelector('h1'); // Returns an DOM Element
-console.log(h1.innerText); // innerText is a Element property containing the text of the node: 'Hello Nerdschool!'
+console.log(h1.innerText); // innerText is a Element property containing the text of the node: 'Hello Techschool!'
 ```
 
 :book: Common DOM API uses:

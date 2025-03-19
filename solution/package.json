@@ -1,7 +1,7 @@
 {
-  "name": "nerdschool-movies-app-example",
+  "name": "techschool-movies-app-example",
   "version": "1.0.0",
-  "description": "Solution code for the 'Modern Javascript and Web APIs' Nerdschool workshop",
+  "description": "Solution code for the 'Modern Javascript and Web APIs' Techschool workshop",
   "type": "module",
   "nodemonConfig": {
     "ext": "js,html,css"
